@@ -1,0 +1,20 @@
+# 顶部导航栏菜单。/#xxx 是跳到首页内的某个锚点（about.md 里的 <span class='anchor' id='xxx'>），
+# /xxx/ 是跳到一个独立页面（_pages/xxx.md 里 permalink 设的值）。改菜单就改这里。
+main:
+  - title: "About Me"
+    url: "/#about"
+
+  - title: "Publications"
+    url: "/publications/"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Blog"
+    url: "/blog/"
+
+  - title: "Gallery"
+    url: "/gallery/"

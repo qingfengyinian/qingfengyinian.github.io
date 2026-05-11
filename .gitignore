@@ -1,0 +1,14 @@
+# Jekyll 构建产物（不要提交，GitHub Pages 会自己重新生成）
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby / bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# 本地杂项
+Gemfile.orig.bak
+.DS_Store
