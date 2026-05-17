@@ -28,7 +28,7 @@ author:
   employer         :                        # 留空：侧边栏地址只显示 location（Hefei, China）
   cv               :                        # 以后有 CV 链接（如 Google Drive / 个人 PDF）再填
   pubmed           :
-  googlescholar    : "https://scholar.google.com/"   # TODO: 注册 Google Scholar 后换成你的主页链接
+  googlescholar    : "https://scholar.google.com/citations?user=_5bWRcAAAAAJ"
   email            : "xinma@mail.ustc.edu.cn"
   researchgate     :
   uri              :
