@@ -26,7 +26,7 @@ author:
   bio              : "M.S. Student @ USTC"
   location         : "Hefei, China"
   employer         :                        # 留空：侧边栏地址只显示 location（Hefei, China）
-  cv               :                        # 以后有 CV 链接（如 Google Drive / 个人 PDF）再填
+  cv               : "/files/cv.pdf"         # 本地 PDF，放在仓库 files/ 目录下
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=_5bWRcAAAAAJ"
   email            : "xinma@mail.ustc.edu.cn"
